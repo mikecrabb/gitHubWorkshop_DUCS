@@ -10,7 +10,10 @@ This workshop focused on basic usage of gitHub within the ATOM IDE and focused o
 * Project Management in GitHub
 
 ## Workshop 2
-This workshop will focus on using continuous integration tools alongside gitHub
+This workshop will focus on using continuous integration tools alongside gitHub. It was used to introduce coding environments for continuous integration for:
+* HTML/CSS/JS (with Jekyll)
+* PHP (with Microsoft Azure)
+* Node (with Heroku)
 
 ## Workshop 3
 This workshop will focus on developing a brief understanding of the javascript fetch() API and how it can be used in conjunction with the GitHub API to create a custom project portfolio webpage.
